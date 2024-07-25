@@ -1,0 +1,1 @@
+C:\Git\Net8AngularWithIISWindowsDomainUserIdentity\net8angularwithiiswindowsdomainuseridentity.client\obj\Debug\net8angularwithiiswindowsdomainuseridentity.client.esproj.CoreCompileInputs.cache
